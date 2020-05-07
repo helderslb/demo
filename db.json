@@ -11,4 +11,9 @@
   "profile": {
     "name": "typicode"
   }
+  "routes": [
+    { "id": 1, "nome": "Minho 1", "fav": 1, "data_ini": "1990-01-01", "hora_ini": 10, "hora_fim":12, "id_programa": 1},
+    { "id": 2, "nome": "Douro 2", "fav": 0, "data_ini": "1990-01-01", "hora_ini": 10, "hora_fim":12, "id_programa": 1},
+    { "id": 3, "nome": "Alentejo 3", "fav": 1,"data_ini": "1990-01-01", "hora_ini": 10, "hora_fim":12, "id_programa": 1}
+  ],
 }
